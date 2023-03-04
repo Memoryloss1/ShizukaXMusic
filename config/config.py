@@ -34,7 +34,7 @@ GITHUB_REPO = getenv("GITHUB_REPO", "https://t.me/tefanikitap")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
 SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/tefanikitap")
-SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/Best_FriendsFor_Ever")
+SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/tefanikitap")
 
 
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", "True")
